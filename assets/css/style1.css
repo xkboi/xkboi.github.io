@@ -13,14 +13,14 @@
     max-width: 100%;
     min-width: 300px;
     height: 100vh;
-    background: url("../img/back4.png");
+    background: url("https://pic.rmb.bdstatic.com/bjh/b37417e18fe5f2e3108b25a301d480d1.jpeg");
     background-size: cover;
 
 }*/
 
 /*body{
   height: 100%;
-  background: url("../img/back4.png");
+  background: url("https://pic.rmb.bdstatic.com/bjh/b37417e18fe5f2e3108b25a301d480d1.jpeg");
   background-size: cover;
 }*/
 body{
@@ -36,7 +36,7 @@ body{
     justify-content: center;
     width:100%;
     height:100%;
-    background: url("../img/back4.png");
+    background: url("https://pic.rmb.bdstatic.com/bjh/b37417e18fe5f2e3108b25a301d480d1.jpeg");
   background-size: cover;
 
 }
